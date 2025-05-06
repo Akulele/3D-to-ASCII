@@ -1,4 +1,3 @@
-// stlToAscii.mjs
 import * as THREE from 'three';
 import fs from 'fs';
 import { STLLoader } from 'three/examples/jsm/loaders/STLLoader.js';
